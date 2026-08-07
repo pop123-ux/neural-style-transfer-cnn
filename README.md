@@ -97,3 +97,8 @@ The first run may download pretrained VGG19 weights from TorchVision. Use a GPU 
 ## License
 
 MIT
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
